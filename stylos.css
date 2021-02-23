@@ -1,0 +1,14 @@
+h1 {
+
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.pie_pagina {
+
+    border: 2px black solid;
+    margin: opx;
+    padding: 0px;
+    width: 100%;
+    background-color: chocolate;
+}
